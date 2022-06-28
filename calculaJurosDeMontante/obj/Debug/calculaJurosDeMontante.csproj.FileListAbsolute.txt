@@ -1,0 +1,10 @@
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\bin\Debug\calculaJurosDeMontante.exe.config
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\bin\Debug\calculaJurosDeMontante.exe
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\bin\Debug\calculaJurosDeMontante.pdb
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.csprojAssemblyReference.cache
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.Form1.resources
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.Properties.Resources.resources
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.csproj.GenerateResource.cache
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.csproj.CoreCompileInputs.cache
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.exe
+c:\users\sennit\source\repos\calculaJurosDeMontante\calculaJurosDeMontante\obj\Debug\calculaJurosDeMontante.pdb
